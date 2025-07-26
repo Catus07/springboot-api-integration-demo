@@ -20,9 +20,9 @@ com.dev.External_Api
 
 ---
 
-## 🚀 API Endpoints
+##  API Endpoints
 
-### 🔸 JSONPlaceholder (No Auth)
+### JSONPlaceholder (No Auth)
 | Endpoint | Description |
 |---------|-------------|
 | `GET /api/v1/resource` | Get single post |
@@ -68,7 +68,8 @@ pesapal.base.url=https://sandbox.pesapal.com
 
 # Build and run
 ./mvnw spring-boot:run
- Skills Demonstrated
+
+Skills Demonstrated
 
  Spring Boot RestClient
  External API integration
